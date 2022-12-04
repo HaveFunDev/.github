@@ -17,12 +17,13 @@ React, typescript, sass, redux
 
 # How to reach us?
 
-—--
+---
 
 You can reach us if you need support or have a cool idea
 havefundevelopment@gmail.com
 
 # Projects
+
 ---
 
 -[Organization Website](https://github.com/HaveFunDev/HaveFun)
