@@ -26,7 +26,7 @@ havefundevelopment@gmail.com
 
 ---
 
--[Organization Website](https://github.com/HaveFunDev/HaveFun)
+- [Organization Website](https://github.com/HaveFunDev/HaveFun)
 
 # Contribution Guideline
 
