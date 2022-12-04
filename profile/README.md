@@ -11,7 +11,7 @@ At the moment, we're just doing frontend development, but we're aiming high.
 We are currently looking for talented people to join our team. If you want to join us we would be more than happy!
 # Our current stack
 
-—--
+---
 
 React, typescript, sass, redux
 
