@@ -16,7 +16,7 @@ It doesn't matter whether it's a simple typo fix, bug fix, documentation additio
  
  Discord Server - [Here!](https://discord.gg/ACjcqkvR)
  
-Check out the link below if you've never worked on an open source project
+### Check out the link below if you've never worked on an open source project
 
  Git & Github tutorial - [Here!](https://www.youtube.com/watch?v=ulQA5tjJark)
  
