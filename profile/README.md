@@ -31,5 +31,4 @@ havefundevelopment@gmail.com
 
 # Contribution Guideline
 
-
-> Coming Soon
+- [Click Here!](https://github.com/HaveFunDev/.github/blob/master/README.md)
