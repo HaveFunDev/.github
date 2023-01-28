@@ -27,8 +27,6 @@ havefundevelopment@gmail.com
 
 ---
 
-- [Don't buy - shop](https://github.com/HaveFunDev/don-t-buy)
-
 - [Organization Website](https://github.com/HaveFunDev/HaveFun)
 
 # Contribution Guideline
